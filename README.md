@@ -3,7 +3,7 @@
 
 ## Demo
 
-**Live Demo** [Here (index.html)](https://github.com/ThorinChen/Esthetic-Login-Page/blob/main/index.html)
+**Live Demo** [Here (index.html)](https://github.com/ThorinChen/Beautiful-Login-Page/blob/main/index.html)
 
 
 ## View
